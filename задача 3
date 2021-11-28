@@ -1,0 +1,15 @@
+public class HelloWorld{
+
+     public static void main(String []args){
+        
+            System.out.println("Hello World");
+        
+        int r = 4;
+        
+        double Pi = Math.PI;
+        
+        System.out.println(Pi); 
+        
+        double l = (2 * Pi * r);
+        
+        System.out.println(l);
