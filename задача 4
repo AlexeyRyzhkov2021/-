@@ -1,0 +1,19 @@
+# -
+public class HelloWorld{
+
+     public static void main(String []args){
+        
+            System.out.println("Hello World");
+        
+        String c1 = "temperatyra celsia";
+        double c2 = 36.6;
+        System.out.println(c1 + "=" + c2);
+        
+        
+        String f1 = "temperatyra Farengeita";
+        double f2 = (c2*1.8) + 32;
+        System.out.println(f1 + "=" + f2);
+        
+        String k1 = "temperatyra Kelvina";
+        double k2 = c2 + 273.15;
+        System.out.println(k1 + "=" + k2);
